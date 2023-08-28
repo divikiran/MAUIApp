@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiChapter1", "MauiChapter1.csproj", "{4B85CDE2-40D7-40EB-B832-A2A2326D0D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B85CDE2-40D7-40EB-B832-A2A2326D0D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B85CDE2-40D7-40EB-B832-A2A2326D0D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B85CDE2-40D7-40EB-B832-A2A2326D0D2B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4B85CDE2-40D7-40EB-B832-A2A2326D0D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B85CDE2-40D7-40EB-B832-A2A2326D0D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B85CDE2-40D7-40EB-B832-A2A2326D0D2B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C208B4A4-B931-44B0-943F-709831A16444}
+	EndGlobalSection
+EndGlobal

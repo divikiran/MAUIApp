@@ -27,6 +27,28 @@ namespace MauiChapter1
             return new MauiTestWindow(new MainPage());
         }
 
+        protected override void OnStart()
+        {
+            base.OnStart();
+            Debug.WriteLine("OnStart *****************");
+
+        }
+
+        protected override void OnSleep()
+        {
+            base.OnSleep();
+            Debug.WriteLine("OnSleep *****************");
+
+        }
+
+        protected override void OnResume()
+        {
+            base.OnResume();
+            Debug.WriteLine("OnResume *****************");
+
+        }
+
+
         private void Window_Destroying(object sender, EventArgs e)
         {
             Debug.WriteLine("Destroying");
